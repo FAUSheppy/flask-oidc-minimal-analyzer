@@ -1,0 +1,4 @@
+- edit env.sh to add client secret
+- `pip -r requirements.txt"
+- python server
+- go to / and /me
